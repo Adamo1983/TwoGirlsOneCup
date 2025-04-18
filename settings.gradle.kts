@@ -23,4 +23,5 @@ dependencyResolutionManagement {
 rootProject.name = "Test2Apps"
 include(":client")
 include(":server")
+include(":common")
  
